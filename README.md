@@ -140,11 +140,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ohmomomo123&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A227&icon_color=C9A227&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohmomomo123&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=C9D1D9" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ohmomomo123&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </p>
 
