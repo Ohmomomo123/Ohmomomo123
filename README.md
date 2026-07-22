@@ -147,10 +147,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ohmomomo123&hide_border=true&bg_color=0D1117&color=C9A227&line=C9A227&point=FFFFFF&area=true&area_color=C9A227" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ohmomomo123&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
 <br/>
 
 ## Contact
