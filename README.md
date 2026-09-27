@@ -93,20 +93,6 @@
 </td>
 <td width="50%" valign="top">
 
-**咀嚼吞嚥機能檢測平台**
-[oscs](https://github.com/sstc-h100-medical-services/oscs)
-
-打造線上轉診流程,將檢查單全面電子化、減少紙本作業,協助醫療團隊更有效率地追蹤患者的咀嚼吞嚥機能檢測結果。
-
-<img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/FreeMarker-20232A?style=flat-square" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **大雁村 AI 紅茶侍茶師**
 [springai-blacktea](https://github.com/Kinomoo/springai-blacktea)
 
